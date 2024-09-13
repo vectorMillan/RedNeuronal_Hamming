@@ -16,7 +16,7 @@ public class neurona_victor extends javax.swing.JFrame implements ActionListener
 
     public neurona_victor() {
         this.N = 64;
-        this.M = 16;
+        this.M = 47;
         this.cont_w1C = 0;
         this.cont_w1F = 0;
         this.matriz_p = new double[N];
