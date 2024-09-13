@@ -58,7 +58,7 @@ public class Prototipo {
 
     //*** Metodo que carga todos los prototipos ASCII al sistema
     public void cargar_ASCII() {
-        String archivo = "C:\\Users\\VECTOR\\Downloads\\prueba.txt";
+        String archivo = "src/patrones/prueba.txt";
         BufferedReader entrada = null;
         String lectura = "";
         int contador = 0;
