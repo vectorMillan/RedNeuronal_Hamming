@@ -12,7 +12,7 @@ public class Prototipo {
 
     public Prototipo() {
         this.N = 64;
-        this.M = 47;
+        this.M = 255;
         this.MatrizProto = new double[M][N];
         this.lon_binary = 0;
     }
