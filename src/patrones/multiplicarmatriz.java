@@ -20,7 +20,7 @@ public class multiplicarmatriz {
 
     public multiplicarmatriz() {
         this.N = 64;
-        this.M = 47;
+        this.M = 255;
         this.cont = 0;
         this.df3 = new DecimalFormat("0.0000");
         this.matriz_Tkl = new double[M][M];
