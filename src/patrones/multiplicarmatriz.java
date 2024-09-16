@@ -3,7 +3,7 @@ package patrones;
 import java.text.DecimalFormat;
 
 public class multiplicarmatriz {
-    int M, N;       //M es el nuemro de prototipos del sistema y N las entradas del sistema (64)
+    int M, N;       //M es el numero de prototipos del sistema y N las entradas del sistema (64)
     double m;
     double e1;      //factor de aprendisaje (1/M)
     double teta;    //Factor para encontrar la distancia hamming
